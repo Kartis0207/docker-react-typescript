@@ -1,4 +1,8 @@
-# docker-react
+# docker-react-typescript
+※こちらは最新のtypescript版です。
+
+旧:js版は[こちら](https://github.com/Kartis0207/docker-react)
+
 
 react の docker プロジェクト
 
